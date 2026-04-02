@@ -56,7 +56,7 @@ As you complete each tool setup, **come back and update the "My Toolkit" section
 ## 🛠️ **My Toolkit**
 *Update these links as you complete each tool setup:*
 - **GitHub Profile:** https://github.com/LFisher-dev
-- **Workspace Repository:** [Add your repository URL here] ⏳
+- **Workspace Repository:** (https://github.com/LFisher-dev/DESN368-LFisher-S26/tree/main)
 - **Figma:** Lee_Fisher
 - **CodePen:** (https://codepen.io/LFisher-dev)
 - **GitHub Student Pack:** approved
