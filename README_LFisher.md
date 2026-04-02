@@ -55,11 +55,11 @@ As you complete each tool setup, **come back and update the "My Toolkit" section
 
 ## 🛠️ **My Toolkit**
 *Update these links as you complete each tool setup:*
-- **GitHub Profile:**  ⏳
+- **GitHub Profile:** https://github.com/LFisher-dev
 - **Workspace Repository:** [Add your repository URL here] ⏳
-- **Figma:** [Add your Figma username here] ⏳
-- **CodePen:** [Add your CodePen profile URL here] ⏳
-- **GitHub Student Pack:** [Confirm approval status here] ⏳
+- **Figma:** Lee_Fisher
+- **CodePen:** (https://codepen.io/LFisher-dev)
+- **GitHub Student Pack:** approved
 
 ### **How to Update Your Toolkit:**
 1. **Click the pencil icon** (✏️) at the top right of this README
