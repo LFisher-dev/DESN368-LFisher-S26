@@ -3,7 +3,7 @@
 ## Background & Skills
 
 **1. Major:**  
-[Your answer here]
+Visual Communication Design (looking at a minor in Animation & Motion Design)
 
 **2. Design courses completed:**  
 [x] DESN 100  
