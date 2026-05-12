@@ -1,0 +1,95 @@
+body {
+  background-color: #68C7C1;
+  border-style: none solid;
+  border-width: 150px;
+  border-color: #794A3A;
+}
+
+header {
+ background-color: #FACA78;
+  display: block;
+  margin: auto;
+  max-width: 800px;
+  padding: 10px 3px 1px 1px;
+  border-style: none solid;
+  border-width: 150px;
+  border-color: #F57F5B; 
+  box-shadow: 150px 0px #DC5341, 
+  -150px 0px #DC5341;
+}
+
+h1 {
+  font-family: "zen dots";
+  color: #DC5341;
+  text-shadow:-2px -2px 0px rgba(0,0,0,1), 
+    -4px -4px 0px rgba(0,0,0,1);
+  text-align: center;
+  font-size: 72px;
+  line-height: 10px;
+}
+
+h2 {
+  font-family: "IBM Plex Mono";
+  font-style: italic;
+  font-size: 28px;
+  color: #f57f5b;
+  text-shadow: -3px 0px 0px #30221D,
+    -2px 0px 0px #30221D;
+  text-align: center;
+  line-height: normal;
+}
+
+h3 {
+font-family: "IBM Plex Mono";
+font-size: 20px;
+font-style: italic;
+font-weight: 600;
+}
+
+p {
+font-family: "Josefin Sans";
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
+li {
+  font-family: "Josefin Sans";
+  padding: 0.5rem;
+}
+
+img {
+  display: block;
+  margin: auto;
+  max-width: 1000px;
+}
+
+.portrait {
+  padding: 50px 0px 0px 0px;
+}
+
+section {
+  display: block;
+  Margin: 45px 365px;
+  padding: 10px;
+  border: 13px solid #F57F5B;
+  padding: 10px;
+  background: #FACA78;
+}
+
+footer {
+   background-color: #FACA78;
+  display: block;
+  margin: auto;
+  max-width: 800px;
+  padding: 10px 3px 1px 1px;
+  border-style: none solid;
+  border-width: 150px;
+  border-color: #F57F5B; 
+  box-shadow: 150px 0px #DC5341, 
+  -150px 0px #DC5341;
+}
+
+a {
+  color: #F57F5B;
+}
