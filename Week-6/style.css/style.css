@@ -1,19 +1,27 @@
 main {
     background: radial-gradient(72.72% 51.95% at 79.83% 25.78%, #F0F1F2 0%, #9FADBF 100%);
+    margin: 0%;
+    padding: 0%;
+    scroll-behavior: smooth;
 }
 /* sidebar */
 .sidebar li {
     list-style: none;
     font-family: "Mozilla Text";
     font-size: 48px;
+    background-color: #525459;
 }
 
+.sidebar a {
+    color:#F0F1F2;
+    text-decoration: none;
+}
 /* header styling*/
 header {
     font-family: "Science Gothic";
     font-style: italic;
-    line-height: 70%;
-    font-size: 2rem;
+    font-size: 1.75rem;
+    background-color: #E36E4B;
 }
 header h2 {
     font-size: 1.5rem;
@@ -21,7 +29,12 @@ header h2 {
 
 /* main content */
 
-section .container {
-    display: flex;
-    padding-left: 1rem;
+.container  {
+    display: flex; 
+    padding-left: 2rem;
+}
+
+.container h2 {
+    font-family: "Science Gothic";
+    font-style: italic;
 }
