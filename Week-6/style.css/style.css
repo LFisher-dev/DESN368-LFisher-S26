@@ -29,7 +29,8 @@ main {
 }
 
 .sidebar a:active {
-    color: 525459;
+    max-width: fit-content;
+    color: #525459;
     background-color: #1DF2DD;
 
 }
