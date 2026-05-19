@@ -1,0 +1,23 @@
+/* sidebar */
+.sidebar li {
+    list-style: none;
+    font-family: "Mozilla Text";
+    font-size: 48px;
+}
+
+/* header styling*/
+header {
+    font-family: "Science Gothic";
+    font-style: italic;
+    line-height: 70%;
+    font-size: 2rem;
+}
+header h2 {
+    font-size: 1.5rem;
+}
+
+/* main content */
+
+.container {
+    display: flex;
+}
