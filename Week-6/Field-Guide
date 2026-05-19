@@ -4,7 +4,37 @@
     <meta charset="UTF-8">
     <link rel="stylesheet" href="css/style.css">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Field Guide</title>
+    <title>Overwatch Field Guide</title>
     </head>
 
-    <body>
+    <main>
+      <div class="container">
+        <nav class="sidebar">
+          <ul>
+            <li><a href=#general>General</a></li>
+            <li><a href=#heroes>Heroes</a></li>
+            <li><a href=#gameplay>Gameplay</a></li>
+            <li><a href=#modes>Modes</a></li>
+            <li><a href=#other>Other</a></li>
+          </ul>
+        </nav>
+
+        <div class="content">
+          <section id="general">
+
+          </section>
+          <section id="heroes">
+
+          </section>
+          <section id="gameplay">
+
+          </section>
+          <section id="modes">
+
+          </section>
+          <section id="other">
+
+          </section>
+        </div>
+      </div>
+    </main>
