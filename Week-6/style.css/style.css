@@ -7,7 +7,8 @@ main {
 /* sidebar */
 
 .sidebar {
-    width: max-content;
+    width: 300px;
+    height: auto;
     position: sticky;
     top: 1rem;
 }
@@ -16,7 +17,6 @@ main {
     padding-left: 0%;
 }
 .sidebar li {
-    height: auto;
     list-style: none;
     font-family: "Mozilla Text";
     font-size: 48px;
