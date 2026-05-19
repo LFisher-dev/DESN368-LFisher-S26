@@ -75,6 +75,7 @@ header h2 {
 
 .content p, ul, li {
     font-family: "Mozilla Text";
+    line-height: normal;
 }
 
 .content li {
