@@ -69,6 +69,16 @@ header h2 {
     border-top: 20px solid #3F5073;
 }
 
+.back-to-top {
+    font-family: "Mozilla Text";
+    display: inline-block;
+    text-decoration: none;
+}
+
+.back-to-top:hover {
+    color: rgba (29, 242, 221 0.5);
+}
+
 .content h2, h3 {
     font-family: "Science Gothic";
     font-style: italic;
@@ -83,12 +93,3 @@ header h2 {
     line-height: 2rem;
 }
 
-.back-to-top {
-    font-family: "Mozilla Text";
-    display: inline-block;
-    text-decoration: none;
-}
-
-.back-to-top:hover {
-    color: rgba (29, 242, 221 0.5);
-}
