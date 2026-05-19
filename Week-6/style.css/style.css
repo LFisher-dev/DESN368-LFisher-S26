@@ -18,6 +18,7 @@ header h2 {
 
 /* main content */
 
-section {
+.container {
     display: flex;
+    padding-left: 1rem;
 }
