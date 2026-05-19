@@ -1,8 +1,11 @@
+html {
+    scroll-behavior: smooth;
+}
+
 main {
     background: radial-gradient(72.72% 51.95% at 79.83% 25.78%, #F0F1F2 0%, #9FADBF 100%);
     margin: 0%;
     padding: 0%;
-    scroll-behavior: smooth;
 }
 /* sidebar */
 
@@ -14,7 +17,7 @@ main {
 }
 
 .sidebar ul {
-    padding-left: 0%;
+    padding-left: 5%;
 }
 .sidebar li {
     list-style: none;
@@ -30,7 +33,7 @@ main {
 }
 
 .sidebar a:active {
-    max-width: fit-content;
+    max-width: 300px;
     color: #525459;
     background-color: #1DF2DD;
 
@@ -69,14 +72,17 @@ header h2 {
     border-top: 20px solid #3F5073;
 }
 
-.back-to-top {
+.Back-to-top {
     font-family: "Mozilla Text";
     display: inline-block;
     text-decoration: none;
+    padding: 0.25rem;
 }
 
-.back-to-top:hover {
-    color: rgba (29, 242, 221 0.5);
+.Back-to-top:hover {
+    background-color: rgba(29, 242, 221, 0.5);
+    border-radius: 2px;
+    padding: 0.25rem;
 }
 
 .content h2, h3 {
