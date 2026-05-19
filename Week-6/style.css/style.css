@@ -68,7 +68,7 @@ header h2 {
     border-top: 20px solid #3F5073;
 }
 
-.content h2 {
+.content h2, h3 {
     font-family: "Science Gothic";
     font-style: italic;
 }
