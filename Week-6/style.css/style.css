@@ -16,6 +16,7 @@ main {
     padding-left: 0%;
 }
 .sidebar li {
+    height: auto;
     list-style: none;
     font-family: "Mozilla Text";
     font-size: 48px;
