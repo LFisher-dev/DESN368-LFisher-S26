@@ -20,6 +20,7 @@ main {
     font-family: "Mozilla Text";
     font-size: 48px;
     background-color: #525459;
+    line-height: 5rem;
 }
 
 .sidebar a {
@@ -38,6 +39,9 @@ header {
     font-style: italic;
     font-size: 1.75rem;
     background-color: #E36E4B;
+    border: 10px solid #E36E4B;
+    color: #F0F1F2;
+    line-height: 50%;
 }
 header h2 {
     font-size: 1.5rem;
@@ -59,7 +63,7 @@ header h2 {
 .content section {
     background-color: #F0F1F2;
     padding: 1rem;
-    margin-bottom: 1rem;
+    margin-bottom: 3rem;
     border-top: 20px solid #3F5073;
 }
 
