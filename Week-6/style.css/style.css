@@ -82,3 +82,13 @@ header h2 {
 .content li {
     line-height: 2rem;
 }
+
+.back-to-top {
+    font-family: "Mozilla Text";
+    display: inline-block;
+    text-decoration: none;
+}
+
+.back-to-top:hover {
+    color: rgba (29, 242, 221 0.5);
+}
