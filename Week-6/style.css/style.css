@@ -23,18 +23,20 @@ main {
 .sidebar ul li {
     list-style: none;
     font-family: "Mozilla Text";
-    background-color: #525459;
+    background: #525459;
     font-size: 48px;
     line-height: 5rem;
+    margin-bottom: 2rem;
 }
 
 .sidebar a {
     color:#F0F1F2;
     text-decoration: none;
+    margin: 1rem;
 }
 
-.sidebar a:active {
-    max-width: 300px;
+.sidebar a:hover, .sidebar a:active {
+    width: 300px;
     color: #525459;
     background-color: #1DF2DD;
 
