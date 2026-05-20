@@ -42,7 +42,7 @@ main {
 
 }
 
-/* remember mobile nav styling */
+/* remember mobile nav styling (check mobile nav exercise) */
 
 /* header styling*/
 header {
@@ -58,7 +58,7 @@ header h2 {
     font-size: 1.5rem;
 }
 
-/* add overwatch logo decoration (meaning alt isn't needed */ 
+/* add overwatch logo decoration (meaning alt isn't needed) */ 
 
 /* main content */
 
@@ -108,4 +108,5 @@ header h2 {
 }
 
 /* find and add 5 decorative elements to each section 
-(overwatch logo, role icon, skill icon, gameplay icon, event icon, BP icon) */ 
+(overwatch logo, role icon, skill icon, gameplay icon, event icon, BP icon)
+change section size on desktop (more space from nav/margins) */ 
