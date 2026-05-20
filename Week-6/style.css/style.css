@@ -35,12 +35,15 @@ main {
     margin: 1rem;
 }
 
-.sidebar a:hover, .sidebar a:active {
+.sidebar a:active {
     width: 300px;
     color: #525459;
     background-color: #1DF2DD;
 
 }
+
+/* remember mobile nav styling */
+
 /* header styling*/
 header {
     font-family: "Science Gothic";
@@ -54,6 +57,8 @@ header {
 header h2 {
     font-size: 1.5rem;
 }
+
+/* add overwatch logo decoration (meaning alt isn't needed */ 
 
 /* main content */
 
@@ -102,3 +107,5 @@ header h2 {
     line-height: 2rem;
 }
 
+/* find and add 5 decorative elements to each section 
+(overwatch logo, role icon, skill icon, gameplay icon, event icon, BP icon) */ 
