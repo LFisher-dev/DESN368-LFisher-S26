@@ -13,17 +13,18 @@ main {
     width: 300px;
     height: auto;
     position: sticky;
-    top: 1rem;
+    top: 20px;
+    align-self: flex-start;
 }
 
 .sidebar ul {
     padding-left: 5%;
 }
-.sidebar li {
+.sidebar ul li {
     list-style: none;
     font-family: "Mozilla Text";
-    font-size: 48px;
     background-color: #525459;
+    font-size: 48px;
     line-height: 5rem;
 }
 
@@ -81,7 +82,7 @@ header h2 {
 
 .Back-to-top:hover {
     background-color: rgba(29, 242, 221, 0.5);
-    border-radius: 2px;
+    border-radius: 5px;
     padding: 0.25rem;
 }
 
