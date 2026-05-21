@@ -41,6 +41,10 @@ main {
     color: #525459;
 }
 
+.mobile-header {
+    display: none;
+}
+
 .nav-toggle {
     display: none;
 }
