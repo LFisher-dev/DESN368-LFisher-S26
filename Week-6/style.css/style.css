@@ -110,3 +110,18 @@ header h2 {
 /* find and add 5 decorative elements to each section 
 (overwatch logo, role icon, skill icon, gameplay icon, event icon, BP icon)
 change section size on desktop (more space from nav/margins) */ 
+/* footer */
+
+footer {
+    background-color:#3F5073;
+    color: #F0F1F2;
+    font-family: "Science Gothic";
+    max-width: 100%;
+    align-self: flex-start;
+    padding: 20px;
+}
+
+footer a {
+    color: #F0F1F2;
+    text-decoration: underline;
+}
