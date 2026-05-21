@@ -12,9 +12,9 @@ main {
 .sidebar {
     flex: 0 0 300px;
     position: sticky;
-    top: 30px;
+    top: 0px;
     align-self: flex-start;
-    padding: 1.5rem;
+    padding: 1rem;
 }
 
 .sidebar ul {
@@ -36,10 +36,8 @@ main {
 }
 
 .sidebar a:hover, .sidebar a:active{
-    width: 300px;
-    color: #525459;
     background-color: #1DF2DD;
-    font-size: 48px;
+    color: #525459;
 }
 
 .nav-toggle {
@@ -56,7 +54,9 @@ main {
     gap: 1rem;
     cursor: pointer;
     position: sticky;
-
+    top: 0px;
+    align-self: flex-start;
+    padding-top: 2.1rem;
 }
 
 .menu-button span {
@@ -84,7 +84,7 @@ main {
         height: 100vh;
         width: 300px;
         transform: translateX(-100%);
-        transition: transform 0.5s ease;
+        transition: all 0.5s ease;
         z-index: 500;
         background: #525459;
     }
@@ -93,7 +93,7 @@ main {
         display: inline-block;
         position: absolute;
         top: 0.9rem;
-        left: 2rem;
+        right: 2rem;
         font-size: 2rem;
         cursor: pointer;
         background: none;
@@ -127,7 +127,7 @@ header {
     background-color: #E36E4B;
     border: 10px solid #E36E4B;
     color: #F0F1F2;
-    padding-left: 2rem;
+    padding-left: 1rem;
     line-height: 50%;
 }
 header h2 {
