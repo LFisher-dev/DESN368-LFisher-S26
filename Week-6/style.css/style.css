@@ -154,6 +154,7 @@ header h2 {
     padding: 1rem;
     margin-bottom: 3rem;
     border-top: 20px solid #3F5073;
+    scroll-margin-top: 2rem;
 }
 
 .Back-to-top {
@@ -187,17 +188,12 @@ header h2 {
     font-size: 18px;
 }
 
-/* find and add 5 decorative elements to each section 
-(overwatch logo, role icon, skill icon, gameplay icon, event icon, BP icon)
-change section size on desktop (more space from nav/margins) */ 
-/* footer */
-
 footer {
     background-color:#3F5073;
     color: #F0F1F2;
     font-family: "Science Gothic";
-    text-align: center;
-    padding: 1.5rem;
+    text-align: left;
+    padding: 1rem;
 }
 
 footer a {
