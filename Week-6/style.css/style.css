@@ -116,9 +116,8 @@ footer {
     background-color:#3F5073;
     color: #F0F1F2;
     font-family: "Science Gothic";
-    max-width: 100%;
-    align-self: flex-start;
-    padding: 20px;
+    text-align: center;
+    padding: 1.5rem;
 }
 
 footer a {
