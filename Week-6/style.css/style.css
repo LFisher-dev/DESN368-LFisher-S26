@@ -35,11 +35,11 @@ main {
     margin: 1rem;
 }
 
-.sidebar a:active {
+.sidebar a:hover, .sidebar a:active{
     width: 300px;
     color: #525459;
     background-color: #1DF2DD;
-
+    font-size: 48px;
 }
 
 /* remember mobile nav styling (check mobile nav exercise) */
