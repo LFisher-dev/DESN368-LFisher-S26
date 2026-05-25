@@ -198,13 +198,16 @@ header h2 {
 }
 
 .deco img {
-    width: 150px;
-    height: auto;
+    width: 19%;
+    max-width: 20%;
+    max-height: auto;
+    display: block;
 }
 
 #header-deco {
-    top: 0.2rem;
-    right: 1rem;
+    background-size: contain;
+    left: 50%;
+    transform: translateX(50%) translateY(-90%);
 }
 
 /* footer */
