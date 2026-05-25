@@ -134,6 +134,7 @@ header {
     color: #F0F1F2;
     padding-left: 1rem;
     line-height: 50%;
+    text-shadow: -6px 2px rgb(0, 0, 0);
 }
 header h2 {
     font-size: 1.5rem;
@@ -189,6 +190,21 @@ header h2 {
 
 .content code {
     font-size: 18px;
+}
+
+.deco {
+    position: absolute;
+    pointer-events: none;
+}
+
+.deco img {
+    width: 150px;
+    height: auto;
+}
+
+#header-deco {
+    top: 0.2rem;
+    right: 1rem;
 }
 
 /* footer */
