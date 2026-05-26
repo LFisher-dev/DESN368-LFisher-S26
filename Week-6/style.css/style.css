@@ -222,11 +222,11 @@ header h2 {
 #deco-4 {
     filter: invert(100%);
     right: 10%;
-    top: 1%
+    bottom: 1%
 }
 
 #deco-5 {
-    left: 20%;
+    left: 21%;
     top: 2%;
 }
 
