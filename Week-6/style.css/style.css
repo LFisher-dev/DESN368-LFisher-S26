@@ -154,6 +154,7 @@ header h2 {
 }
 
 .content section {
+    position: relative;
     background-color: #F0F1F2;
     padding: 1rem;
     margin-bottom: 3rem;
@@ -198,16 +199,20 @@ header h2 {
 }
 
 .deco img {
-    width: 19%;
-    max-width: 20%;
-    max-height: auto;
-    display: block;
+    width: 80px;
+    height: auto;
+    opacity: 0.3;
 }
 
-#header-deco {
-    background-size: contain;
-    left: 50%;
-    transform: translateX(50%) translateY(-90%);
+#deco-1 {
+    right: 10%;
+    top: 5%;
+}
+
+#deco-4 {
+    filter: invert(100%);
+    right: 10%;
+    top: 8%
 }
 
 /* footer */
