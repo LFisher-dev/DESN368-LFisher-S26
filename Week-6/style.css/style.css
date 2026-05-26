@@ -206,13 +206,34 @@ header h2 {
 
 #deco-1 {
     right: 10%;
-    top: 5%;
+    bottom: 3%;
+    filter: invert(100%);
+}
+
+#deco-2 {
+    right: 3%;
+    top: 15%;
+}
+#deco-3 {
+    left: 25%;
+    top: 1%;
 }
 
 #deco-4 {
     filter: invert(100%);
     right: 10%;
-    top: 8%
+    top: 1%
+}
+
+#deco-5 {
+    left: 20%;
+    top: 2%;
+}
+
+#deco-6 {
+    right: 10%;
+    bottom: 30%;
+    filter: grayscale(100%);
 }
 
 /* footer */
