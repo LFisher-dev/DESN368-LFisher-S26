@@ -1,9 +1,20 @@
-table {
-    width: 100%;
-    border-collapse: collapse;
+body {
+    background-color: rgba(255, 232, 206, 0.5);
+}
+h1, h2, h3 {
+    font-family: "newsreader";
+    color: #331d00;
 }
 
-table, tr, td {
-    border: 3px rgba(123, 65, 11, 0.5) solid
+p, li {
+    font-family: "macondo"
 }
 
+.plan {
+    background-color: #FFF7f0;
+}
+/* main colors are:
+1. Seashell aka #FFF7F0
+2. Soft Apricot aka #FFE8CE
+3. Dark Walnut aka #4F2B07
+4. Dark Coffee aka #331D00 */
