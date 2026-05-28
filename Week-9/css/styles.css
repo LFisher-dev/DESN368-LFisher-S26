@@ -1,6 +1,9 @@
 body {
-    background-color: rgba(255, 232, 206, 0.5);
+    background-image: url(https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvcHg2NTA4NDctaW1hZ2Utam9iNjMwLWctbDBnMDlscTUuanBn.jpg);
+    background-color: rgba(255, 232, 206, 0.8);
+    background-blend-mode: color-burn;
 }
+
 h1, h2, h3 {
     font-family: "newsreader";
     color: #331d00;
@@ -10,9 +13,19 @@ p, li {
     font-family: "macondo"
 }
 
+.container {
+    display: flex;
+    padding: 5px;
+}
+
 .plan {
     background-color: #FFF7f0;
+    border-radius: 25px;
+    border-left: 15px solid #331d00;
+    padding-left: 2%;
+    margin-right: 15px;
 }
+
 /* main colors are:
 1. Seashell aka #FFF7F0
 2. Soft Apricot aka #FFE8CE
