@@ -26,6 +26,15 @@ p, li {
     margin-right: 15px;
 }
 
+.plan h2 {
+    font-family: "Macondo";
+    font-size: 32px;
+}
+
+.plan li {
+    padding-bottom: 10%;
+}
+
 /* main colors are:
 1. Seashell aka #FFF7F0
 2. Soft Apricot aka #FFE8CE
