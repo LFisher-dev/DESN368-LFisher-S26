@@ -1,0 +1,9 @@
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+table, tr, td {
+    border: 3px rgba(123, 65, 11, 0.5) solid
+}
+
