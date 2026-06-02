@@ -13,6 +13,29 @@ p, li {
     font-family: "macondo"
 }
 
+#header ul {
+    list-style: none;
+    margin: 0;
+    overflow: hidden;
+    background-color: #331d00;
+}
+
+#header li {
+    float: left;
+}
+
+#header a {
+    display: block;
+    color: #FFF7f0;
+    text-align: justify;
+    padding: 1rem;
+    text-decoration: dotted;
+}
+
+#header a:hover {
+    background-color: #4F2B07;
+}
+
 .container {
     display: flex;
     padding: 5px;
@@ -23,7 +46,9 @@ p, li {
     border-radius: 25px;
     border-left: 15px solid #331d00;
     padding-left: 2%;
-    margin-right: 15px;
+    padding-right: 2%;
+    margin: 15px;
+    
 }
 
 .plan h2 {
@@ -32,7 +57,7 @@ p, li {
 }
 
 .plan li {
-    padding-bottom: 10%;
+    padding-bottom: 5%;
 }
 
 /* main colors are:
