@@ -102,6 +102,7 @@ form {
     padding-left: 2%;
     padding-right: 2%;
     margin: 15px;
+    font-family: "Macondo";
 }
 
 form input {
@@ -110,6 +111,7 @@ form input {
     padding: 10px;
     border-radius: 5px;
     border: 1px solid #ccc;
+    font-family: "Macondo";
 }
 
 form textarea {
@@ -119,6 +121,7 @@ form textarea {
     padding: 10px;
     border-radius: 5px;
     border: 1px solid #ccc;
+    font-family: "Macondo";
 }
 
 form #submit {
@@ -128,10 +131,12 @@ form #submit {
     padding: 5px 20px;
     border-radius: 5px;
     cursor: pointer;
-    hover {
-        background-color: #FFE8CE;
-        color: #4F2B07;
-    }
+}
+
+form #submit:hover {
+    background-color: #ffe8ce;
+    color: #4F2B07;
+    border: 1px solid #4F2B07;
 }
 
 /* Footer */
