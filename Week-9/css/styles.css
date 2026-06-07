@@ -2,6 +2,8 @@ html {
     scroll-behavior: smooth;
 }
 
+/* main content */
+
 body {
     background-image: url(https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvcHg2NTA4NDctaW1hZ2Utam9iNjMwLWctbDBnMDlscTUuanBn.jpg);
     background-color: rgba(255, 232, 206, 0.8);
@@ -16,6 +18,14 @@ h1, h2, h3 {
 p, li {
     font-family: "macondo"
 }
+
+.container {
+    display: flex;
+    padding: 5px;
+}
+
+
+/* header */
 
 #header ul {
     list-style: none;
@@ -40,11 +50,8 @@ p, li {
     background-color: #4F2B07;
 }
 
-.container {
-    display: flex;
-    padding: 5px;
-}
 
+/* Video */
 
 iframe {
     display: block;
@@ -87,7 +94,14 @@ iframe {
     }
 }
 
+/* Footer */
 
+footer {
+    background-color: #331d00;
+    color: #FFF7f0;
+    text-align: center;
+    padding: 0.5rem;
+}
 /* main colors are:
 1. Seashell aka #FFF7F0
 2. Soft Apricot aka #FFE8CE
