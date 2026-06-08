@@ -50,6 +50,13 @@ p, li {
     background-color: #4F2B07;
 }
 
+#brand-name {
+    font-family: "Newsreader";
+    font-size: 24px;
+    color: #FFE8CE;
+    padding: 1rem;
+}
+
 
 /* Video */
 
@@ -117,6 +124,8 @@ table th, table td {
         margin: 0;
         margin-bottom: 15px;
     }
+
+    
 }
 
 /* contact form */
