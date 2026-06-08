@@ -125,7 +125,7 @@ table th, table td {
         margin-bottom: 15px;
     }
 
-    
+
 }
 
 /* contact form */
@@ -184,6 +184,24 @@ footer {
         color: #ffe8ce;
         text-decoration: underline;
     }
+}
+
+/* animation */
+
+
+@keyframes fadeInUp {
+    0% {
+        transform: translateY(25px);
+        opacity: 0;    
+    }
+    100% {
+        transform: translateY(0);
+        opacity: 1;
+    }
+}
+
+.fadeInUp-animation {
+    animation: fadeInUp 1.2s ease-in;
 }
 /* main colors are:
 1. Seashell aka #FFF7F0
