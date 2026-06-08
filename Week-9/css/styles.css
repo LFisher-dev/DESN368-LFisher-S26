@@ -84,6 +84,27 @@ iframe {
 .plan li {
     padding-bottom: 5%;
 }
+/* table */
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    background-color: #FFF7f0;
+    font-family: "Macondo";
+}
+
+table th, table td {
+    border: 2px double #331d00;
+    padding: 8px;
+    text-align: left;
+}
+
+#table-header {
+    background-color: #4F2B07;
+    color: #FFF7f0;
+    font-family: "Newsreader";
+    font-size: 24px;
+}
 
 /* media queries */
 
