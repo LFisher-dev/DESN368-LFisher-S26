@@ -29,9 +29,8 @@ p, li {
     padding: 5px;
 }
 
-
 img {
-    width: 60%;
+    width: 80%;
 }
 
 /* header */
@@ -77,6 +76,23 @@ iframe {
     display: block;
     margin-right: auto;
     padding-top: 5%;
+}
+
+.hero-content {
+    display: flex;
+    align-items: left;
+    gap: 20px;
+    padding: 20px;
+}
+
+.hero-text {
+    flex: 1;
+}
+
+.hero-content img {
+    flex: 1;
+    width: 100%;
+    max-width: 500px;
 }
 
 /* subscription plans */
@@ -140,7 +156,18 @@ table th, table td {
         margin-bottom: 15px;
     }
 
-    
+    .name-row {
+        flex-direction: column;
+        width: 100%;    
+    }
+
+    .name-row input {
+        width: 100%;
+    }
+
+    .hero-content img {
+        visibility: hidden;
+    }
 }
 
 /* contact form */
@@ -191,9 +218,9 @@ form #submit:hover {
 
 .name-row {
     display: flex;
-    gap: 15px;
+    gap: 10px;
     width: 50%;
-    justify-content: center;
+    align-items: center;
 }
 
 .form-group input {
