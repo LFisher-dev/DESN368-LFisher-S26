@@ -14,7 +14,6 @@
     <header id="header">
         <nav>
             <ul>
-                <li id="logo"><img src="/Week-9/Images/immersia-icon.png" alt=""></li>
                 <li id="brand-name">Immersia</li>
                 <li><a href="#Home">Home</a></li>
                 <li><a href="#overview">Overview</a></li>
@@ -39,7 +38,7 @@
                 <li>Horror</li>
                 <li>Non-fiction</li>
             </ul>
-            <form action="https://illumicrate.com/collections/subscriptions?page=1" method="post">
+            <form action="https://illumicrate.com/collections/subscriptions?page=1" method="post" id="CTA">
             <label for="signup">Sign up here!</label>
                 <input type="text" id="signup" name="signup" placeholder="email...">
                 <input type="submit" value="Submit" id="submit">
@@ -98,10 +97,10 @@
             <h2>What to Expect with Each Genre</h2>
             <p>A quick preview of the different scents/flavors we associate with each genre available</p>
             <table>
-                <tr class="table" id="table-header">
-                    <td>Genre</td>
-                    <td>Flavors</td>
-                    <td>Scent Notes</td>
+                <tr class="table">
+                    <th scope="col">Genre</th>
+                    <th scope="col">Flavors</th>
+                    <th scope="col">Scent Notes</th>
                 </tr>
                 <tr class="table">
                     <td>Romance</td>
@@ -134,17 +133,17 @@
             <!-- contact form --> 
              <form action="https://illumicrate.com/collections/subscriptions?page=1" method="post">
                 <h2>Questions? Send us a message!</h2>
-                <label for="Fname"">First Name:</label>
-                <input type="text" id="fname" name="fname" placeholder="First Name">
-
-                <label for="Lname">Last Name:</label>
-                <input type="text" id="lname" name="lname" placeholder="Last Name">
-
+                <div class="name-row">
+                        <label for="Fname"">First Name:</label>
+                        <input type="text" id="fname" name="fname" placeholder="First Name">
+                        <label for="Lname">Last Name:</label>
+                        <input type="text" id="lname" name="lname" placeholder="Last Name">
+                </div>
                 <label for="Email">Email:</label>
                 <input type="text" id="email" name="email" placeholder="email">
-
                 <label for="Message">Message:</label>
-                <textarea id="message" name="message" placeholder="Your message here..."></textarea>
+                <textarea id="message" name="message" placeholder="Your message here..."></textarea>    
+
                 <input type="submit" value="Submit" id="submit">
              </form>
          </section>
