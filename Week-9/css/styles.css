@@ -63,7 +63,7 @@ img {
 
 /* Video */
 
-#overeview li {
+#overview li {
     display: inline-block;
     margin-left: 15px;
 }
@@ -94,6 +94,13 @@ iframe {
 .plan li {
     padding-bottom: 5%;
 }
+
+.plan:hover {
+    transform:translateY(-10px);
+    transition: all 0.3s ease;
+    box-shadow: -8px 8px rgba(51, 29, 0, 0.5);
+}
+
 /* table */
 
 table {
