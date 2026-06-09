@@ -80,6 +80,7 @@ iframe {
     width: 100%;
     max-width: 800px;
     max-height: 450px;
+    border: none;
     display: flex;
     align-self: center;
     margin: 0 auto;
@@ -87,7 +88,6 @@ iframe {
 
 .hero-content {
     display: flex;
-    align-items: left;
     gap: 20px;
     padding: 20px;
 }
@@ -342,11 +342,12 @@ footer {
     color: #FFF7f0;
     text-align: center;
     padding: 0.5rem;
-    a {
+}
+
+ footer a {
         color: #ffe8ce;
         text-decoration: underline;
     }
-}
 
 /* animation */
 
