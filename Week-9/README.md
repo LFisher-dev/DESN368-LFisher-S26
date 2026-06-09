@@ -16,6 +16,9 @@ In terms of CSS, I chose to have the borders collapse at the breakpoint & have t
 
 # Challenges encountered and solutions
 
+I did have to figure momentarily reconfigure some of the layout issues (primarily when it came out navigation), but when I did come across those issues, I looked back at the field guide as a reference knowing that the prosess would be similar. 
 
 # Key learnings
-
+- how to add animation to a page
+- how to do text inputs
+- additional responsive design (making images dissapear, how to format tables, etc)
