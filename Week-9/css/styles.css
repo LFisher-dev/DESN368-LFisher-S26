@@ -68,14 +68,14 @@ img {
 
 /* Video */
 
-#overview li {
-    display: inline-block;
-    margin-left: 15px;
-}
-
 iframe {
     padding-bottom: 3%;
+    width: 100%;
+    max-width: 800px;
+    max-height: 450px;
+    display: flex;
     align-self: center;
+    margin: 0 auto;
 }
 
 .hero-content {
@@ -164,7 +164,7 @@ table {
 }
 
 table th, table td {
-    border: 5px double #331d00;
+    border: 2px solid #331d00;
     padding: 8px;
     text-align: left;
 }
@@ -205,6 +205,10 @@ table th, table td {
         display: flex;
     }
 
+    #signup {
+        width: 100%;
+    }
+
     .sidebar {
         position: fixed;
         top: 0;
@@ -221,7 +225,7 @@ table th, table td {
         display: inline-block;
         position: absolute;
         top: 10px;
-        right: 10px;
+        right: 20px;
         font-size: 24px;
         color: #FFF7f0;
         cursor: pointer;
@@ -235,7 +239,7 @@ table th, table td {
         content: "";
         position: fixed;
         top: 0;
-        left: 250px;
+        left: 300px;
         right: 0;
         bottom: 0;
         z-index: -1;
@@ -243,6 +247,18 @@ table th, table td {
 
     #brand-name {
         display: none;
+    }
+
+    #header ul {
+        padding-top: 2rem;
+    }
+
+    #header li {
+        float: none;
+    }
+
+    table {
+        border-collapse: collapse;
     }
 }
 
