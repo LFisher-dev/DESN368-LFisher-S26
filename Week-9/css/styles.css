@@ -21,7 +21,8 @@ h1 {
 }
 
 p, li {
-    font-family: "macondo"
+    font-family: "macondo";
+    font-size: 18px;
 }
 
 .container {
@@ -30,7 +31,7 @@ p, li {
 }
 
 img {
-    width: 80%;
+    width: 60%;
 }
 
 /* header */
@@ -73,9 +74,8 @@ img {
 }
 
 iframe {
-    display: block;
-    margin-right: auto;
-    padding-top: 5%;
+    padding-bottom: 3%;
+    align-self: center;
 }
 
 .hero-content {
@@ -93,6 +93,38 @@ iframe {
     flex: 1;
     width: 100%;
     max-width: 500px;
+}
+
+.mobile-header {
+    display: none;
+}
+
+.close {
+    display: none;
+}
+
+.toggle {
+    display: none;
+}
+
+.menu-button {
+    display:flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    cursor: pointer;
+    position: sticky;
+    top: 0px;
+    align-self: flex-start;
+    padding-top: 2.1rem;
+    padding-left: 2.1rem;
+}
+
+.menu-button span {
+    width: 40px;
+    height: 5px;
+    background-color: #4F2B07;
+    border-radius: 5px;
+    transition: all 0.5s ease;
 }
 
 /* subscription plans */
@@ -167,6 +199,50 @@ table th, table td {
 
     .hero-content img {
         visibility: hidden;
+    }
+
+    .mobile-header {
+        display: flex;
+    }
+
+    .sidebar {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 250px;
+        height: 100%;
+        transform: translateX(-100%);
+        background-color: #331d00;
+        transition: left 0.8s ease;
+        z-index: 1000;
+    }
+
+    .close {
+        display: inline-block;
+        position: absolute;
+        top: 10px;
+        right: 10px;
+        font-size: 24px;
+        color: #FFF7f0;
+        cursor: pointer;
+    }
+
+    .toggle:checked ~ .sidebar {
+        transform: translateX(0);
+    }
+
+    .toggle:checked ~ .sidebar::before {
+        content: "";
+        position: fixed;
+        top: 0;
+        left: 250px;
+        right: 0;
+        bottom: 0;
+        z-index: -1;
+    }
+
+    #brand-name {
+        display: none;
     }
 }
 

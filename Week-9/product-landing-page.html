@@ -10,11 +10,13 @@
 <link href="https://fonts.googleapis.com/css2?family=Macondo&family=Newsreader:ital,opsz,wght@0,6..72,200..800;1,6..72,200..800&display=swap" rel="stylesheet">
 </head>
 
-<body class="fadeInUp-animation ">
+<body class="fadeInUp-animation">
     <header id="header">
-        <nav>
+        <input type="checkbox" id="toggle" class="toggle">
+        <nav class="sidebar">
+            <label for="toggle" class="close">X</label>
             <ul>
-                <li id="brand-name">Immersia</li>
+                <li id="brand-name"><em>Immersia</em></li>
                 <li><a href="#Home">Home</a></li>
                 <li><a href="#overview">Overview</a></li>
                 <li><a href="#plans">Subscription Plans</a></li>
@@ -22,6 +24,13 @@
                 <li><a href="#Contact-form">Contact Form</a></li>
             </ul>
         </nav>
+        <div class="mobile-header">
+            <label for="toggle" class="menu-button">
+            <span></span>
+            <span></span>
+            <span></span>
+            </label>
+        </div>
     </header>
     <main>
         <!-- main content -->
