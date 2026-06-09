@@ -55,6 +55,13 @@ img {
     text-decoration: dotted;
 }
 
+#header img {
+    width: 50px;
+    height: auto;
+    margin-top: 10px;
+    color: #FFF7f0;
+}
+
 #header a:hover {
     background-color: #4F2B07;
 }
@@ -245,7 +252,7 @@ table th, table td {
         z-index: -1;
     }
 
-    #brand-name {
+    #brand-name, #header img {
         display: none;
     }
 
