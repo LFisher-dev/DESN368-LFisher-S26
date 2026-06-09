@@ -1,12 +1,8 @@
-<<<<<<< HEAD
 # Project description
-=======
-"Project description"
->>>>>>> cceef64 (edits to style, updated readme)
 
 This was our landing page project, where we had to create a product or service and create a website where one could sign up for it. I decided to go about this assignment by making a book subscription service where people could buy mystery books and a complementary care package with it.
 
-"Which CSS transform you implemented"
+# Which CSS transform you implemented
 
 I implemented CSS transforms on the buttons and the subscription plans, wherein it'd crease a shadow when your mouse hovers over them; the buttons also invert/change colors when you hover over them.
 
