@@ -5,9 +5,6 @@ html {
 body {
     background-color: #fff5f8;
     font-family: "cabin";
-    border-style: none solid;
-    border-width: 5rem;
-    border-color: #fcaea4;
 }
 
 h1, h2, h3 {
@@ -20,7 +17,6 @@ h3 {
 }
 
 /* header */
-
 #header ul {
     list-style: none;
     overflow: hidden;
@@ -60,24 +56,63 @@ h3 {
     display: none;
 }
 
-.menu-button {
+.mobile-header {
     display: none;
 }
+
+.menu-button {
+    display:flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    cursor: pointer;
+    position: sticky;
+    top: 0px;
+    align-self: flex-start;
+    padding-top: 2.1rem;
+    padding-left: 2.1rem;
+}
+
+.menu-button span {
+    width: 60px;
+    height: 7px;
+    background-color: #a41942;
+    border-radius: 15px;
+    transition: all 0.5s ease;
+}
 /*Biography*/
+
 
 img {
     width: 50%;
     max-width: 500px;
+
 }
 /*Projects*/
+
+article {
+    width: 80%;
+    align-self: center;
+}
+.thumbnail img {
+    display: flex;
+}
 
 /*Links*/
 
 /*Breakpoint*/
 
-@media (max-width: 768ox) {
+@media (max-width: 768px) {
     .container {
         flex-direction: column;
+    }
+    
+    #projects {
+        margin: 0;
+        margin-bottom: 15px;   
+    }
+
+    .mobile-header {
+        display: flex;
     }
 
     .sidebar {
@@ -89,10 +124,58 @@ img {
         transform: translateX(-100%);
         background-color: #a41942;
         transition: left 0.8s ease;
+        z-index: 1000;
+    }
+
+    .close {
+        display: inline-block;
+        position: absolute;
+        top: 10px;
+        right: 20px;
+        font-size: 24px;
+        color: #fff5f8;
+        cursor: pointer;
+    }
+
+    .toggle:checked ~ .sidebar {
+        transform: translateX(0);
+    }
+
+    .toggle:checked ~ .sidebar::before {
+        content: "";
+        position: fixed;
+        top: 0;
+        left: 300px;
+        right: 0;
+        bottom: 0;
         z-index: 1;
+    }
+
+    #header ul {
+        padding-top: 2rem;
+    }
+
+    #header li {
+        float: none;
     }
 }
 
+/*Footer*/
+
+footer {
+    background-color: #a41942;
+    color: #fff5f8;
+    text-align: center;
+    padding: 0.5rem;
+}
+
+ footer a {
+        color: #fff5f8;
+        text-decoration: underline;
+    }
+
+
+/*Animation*/
 @keyframes fadeInUp {
     0% {
         transform: translateY(25px);
