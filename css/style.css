@@ -101,9 +101,14 @@ main {
     gap: 1rem;
 }
 
-#Welcome h3 {
-    line-height: 25%;
+#Welcome h1, h3 {
+    margin: 0;
 }
+
+#Welcome h3 {
+    line-height: 98%;
+}
+
 /*Biography*/
 
 .bio-content {
@@ -211,10 +216,6 @@ form #submit:hover {
     input {
         width: 100%;
     }
-
-    .bio-content {
-
-    }   
 
     .mobile-header {
         display: flex;
