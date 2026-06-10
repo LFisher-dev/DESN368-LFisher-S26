@@ -1,20 +1,20 @@
 # Part 1: Repository organization
-[] Renamed old index.html to learning-log.html (NOT moved, NOT deleted)
-[] Created archive/ folder
-[] Moved old README to archive/course-log.md
-[] Created new index.html (portfolio home page)
+[X] Renamed old index.html to learning-log.html (NOT moved, NOT deleted)
+[X] Created archive/ folder
+[X] Moved old README to archive/course-log.md
+[X] Created new index.html (portfolio home page)
 [] Created new README.md using the template
-[] Created css/ folder for portfolio styles
-[] Created images/ folder for portfolio images
-[] All week-XX folders are still in root (not moved)
-[] All links in learning-log.html still work
+[X] Created css/ folder for portfolio styles
+[X] Created images/ folder for portfolio images
+[X] All week-XX folders are still in root (not moved)
+[X] All links in learning-log.html still work
 # Part 2: Visual Design (Figma)
-[] Revisited original "Moodz and Vibes" file
-[] Defined typography (Header font + Body font)
-[] Defined 5-color palette (Background, Text, Accent, Secondary, Error/Success)
-[] Created Desktop mockup
-[] Created Mobile mockup
-[] If I pivoted from original direction, I justified the change in my reflection
+[X] Revisited original "Moodz and Vibes" file
+[X] Defined typography (Header font + Body font)
+[X] Defined 5-color palette (Background, Text, Accent, Secondary, Error/Success)
+[X] Created Desktop mockup
+[X] Created Mobile mockup
+[X] If I pivoted from original direction, I justified the change in my reflection
 # Part 3: Portfolio Build — Content
 [] Welcome/Hero section with introduction
 [] Bio section (career goals, skills, interests, story)
