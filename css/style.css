@@ -1,0 +1,69 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background-color: #fff5f8;
+    font-family: "cabin";
+}
+
+h1, h2, h3 {
+    font-family: "Lemonada";
+    font-weight: 300;
+}
+
+h3 {
+    font-weight: 500;
+}
+
+
+/* header */
+
+header ul {
+    list-style: none;
+}
+header li {
+    float: left;
+    margin: 0;
+    overflow: 0;
+    padding-left: 1rem;
+    background-color: #a41942;
+    color: #fff5f8;
+}
+
+header li a {
+    color: #fff5f8;
+    text-decoration: none;
+}
+
+h3 #subtitle {   
+    align
+}
+/*Biography*/
+img {
+    width: 50%;
+    max-width: 500px;
+}
+/*Projects*/
+
+/*Links*/
+
+/*Breakpoint*/
+
+@keyframes fadeInUp {
+    0% {
+        transform: translateY(25px);
+        opacity: 0;    
+    }
+    100% {
+        transform: translateY(0);
+        opacity: 1;
+    }
+}
+
+/* colors 
+780a2b = text
+a41942 = secondary
+f07269 = error 
+fcaea4 = accent color
+fff5f8 = background */
