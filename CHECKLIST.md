@@ -35,7 +35,7 @@
 - [] At least one @media query for responsive design
 - [] At least one CSS transition on interactive element (hover state, button, card)
 - [] Link states styled (a:link, a:visited, a:hover, a:active)
-- [] Custom favicon installed and visible in browser tab
+- [X] Custom favicon installed and visible in browser tab
 - [X] All images have descriptive alt text
 - [X] Site is live on GitHub Pages
 - [] Tested on mobile (or narrow browser window)
