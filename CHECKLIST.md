@@ -18,7 +18,7 @@
 # Part 3: Portfolio Build — Content
 - [X] Welcome/Hero section with introduction
 - [X] Bio section (career goals, skills, interests, story)
-- [] Image of myself (photo or illustration)
+- [X] Image of myself (photo or illustration)
 - [] Project Card: The Recipe (thumbnail + title + description + link)
 - [] Project Card: Tribute Site (thumbnail + title + description + link)
 - [] Project Card: Field Guide (thumbnail + title + description + link)
@@ -29,15 +29,15 @@
 - [X] Link to Learning Log somewhere in navigation or footer
 # Part 4: Portfolio Build — Technical
 - [X] Semantic HTML (<header>, <nav>, <main>, <section>, <article>, <footer>)
-- [] CSS Variables for colors
-- [] CSS Variables for fonts
+- [X] CSS Variables for colors
+- [X] CSS Variables for fonts
 - [] Layout uses Flexbox and/or Grid
 - [] At least one @media query for responsive design
 - [] At least one CSS transition on interactive element (hover state, button, card)
 - [] Link states styled (a:link, a:visited, a:hover, a:active)
 - [] Custom favicon installed and visible in browser tab
-- [] All images have descriptive alt text
-- [] Site is live on GitHub Pages
+- [X] All images have descriptive alt text
+- [X] Site is live on GitHub Pages
 - [] Tested on mobile (or narrow browser window)
 # Part 5: Reflection
 - [] Created reflection page (linked from portfolio)
