@@ -13,6 +13,11 @@ h1, h2, h3 {
     font-weight: 300;
 }
 
+h1 {
+    font-size: 72px;
+    align-content: center;
+}
+
 h3 {
     font-weight: 500;
 }
@@ -21,7 +26,7 @@ main {
     padding-left: 2rem;
 }
 
-/* header */
+/* header/navigation */
 #header ul {
     list-style: none;
     overflow: hidden;
@@ -86,12 +91,35 @@ main {
     border-radius: 15px;
     transition: all 0.5s ease;
 }
+
+
+/*Welcome*/
+ 
+#Welcome { 
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+#Welcome h3 {
+    line-height: 25%;
+}
 /*Biography*/
 
+.bio-content {
+    display: flex;
+    gap: 20px;
+    padding: 20px;
+}
+
+.biography {
+    flex: 1;
+}
 
 img {
     width: 50%;
     max-width: 500px;
+    height: auto;
 }
 
 /*Projects*/
@@ -184,6 +212,10 @@ form #submit:hover {
         width: 100%;
     }
 
+    .bio-content {
+
+    }   
+
     .mobile-header {
         display: flex;
     }
@@ -231,6 +263,7 @@ form #submit:hover {
     #header li {
         float: none;
     }
+
 }
 
 /*Footer*/
