@@ -19,26 +19,26 @@
 - [X] Welcome/Hero section with introduction
 - [X] Bio section (career goals, skills, interests, story)
 - [X] Image of myself (photo or illustration)
-- [] Project Card: The Recipe (thumbnail + title + description + link)
-- [] Project Card: Tribute Site (thumbnail + title + description + link)
-- [] Project Card: Field Guide (thumbnail + title + description + link)
-- [] Project Card: Product Landing Page (thumbnail + title + description + link)
+- [X] Project Card: The Recipe (thumbnail + title + description + link)
+- [X] Project Card: Tribute Site (thumbnail + title + description + link)
+- [X] Project Card: Field Guide (thumbnail + title + description + link)
+- [X] Project Card: Product Landing Page (thumbnail + title + description + link)
 - [] External links (GitHub profile, LinkedIn, socials)
 - [X] Footer with copyright
-- [] Footer with AI/Integrity statement (if applicable)
+- [X] Footer with AI/Integrity statement (if applicable)
 - [X] Link to Learning Log somewhere in navigation or footer
 # Part 4: Portfolio Build — Technical
 - [X] Semantic HTML (<header>, <nav>, <main>, <section>, <article>, <footer>)
 - [X] CSS Variables for colors
 - [X] CSS Variables for fonts
-- [] Layout uses Flexbox and/or Grid
+- [X] Layout uses Flexbox and/or Grid
 - [] At least one @media query for responsive design
-- [] At least one CSS transition on interactive element (hover state, button, card)
-- [] Link states styled (a:link, a:visited, a:hover, a:active)
+- [X] At least one CSS transition on interactive element (hover state, button, card)
+- [X] Link states styled (a:link, a:visited, a:hover, a:active)
 - [X] Custom favicon installed and visible in browser tab
 - [X] All images have descriptive alt text
 - [X] Site is live on GitHub Pages
-- [] Tested on mobile (or narrow browser window)
+- [X] Tested on mobile (or narrow browser window)
 # Part 5: Reflection
 - [] Created reflection page (linked from portfolio)
 - [] The Threshold: Answered in 3-5 sentences minimum
