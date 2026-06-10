@@ -16,19 +16,19 @@
 - [X] Created Mobile mockup
 - [X] If I pivoted from original direction, I justified the change in my reflection
 # Part 3: Portfolio Build — Content
-- [] Welcome/Hero section with introduction
-- [] Bio section (career goals, skills, interests, story)
+- [X] Welcome/Hero section with introduction
+- [X] Bio section (career goals, skills, interests, story)
 - [] Image of myself (photo or illustration)
 - [] Project Card: The Recipe (thumbnail + title + description + link)
 - [] Project Card: Tribute Site (thumbnail + title + description + link)
 - [] Project Card: Field Guide (thumbnail + title + description + link)
 - [] Project Card: Product Landing Page (thumbnail + title + description + link)
 - [] External links (GitHub profile, LinkedIn, socials)
-- [] Footer with copyright
+- [X] Footer with copyright
 - [] Footer with AI/Integrity statement (if applicable)
-- [] Link to Learning Log somewhere in navigation or footer
+- [X] Link to Learning Log somewhere in navigation or footer
 # Part 4: Portfolio Build — Technical
-- [] Semantic HTML (<header>, <nav>, <main>, <section>, <article>, <footer>)
+- [X] Semantic HTML (<header>, <nav>, <main>, <section>, <article>, <footer>)
 - [] CSS Variables for colors
 - [] CSS Variables for fonts
 - [] Layout uses Flexbox and/or Grid
