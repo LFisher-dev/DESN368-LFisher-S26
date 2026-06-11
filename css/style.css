@@ -18,12 +18,13 @@ h1 {
     align-content: center;
 }
 
-h3 {
-    font-weight: 500;
-}
-
 main {
     padding-left: 2rem;
+}
+
+img {
+    max-width: 500px;
+    height: auto;
 }
 
 /* header/navigation */
@@ -128,13 +129,17 @@ main {
 .bio-content p {
     font-size: 24px;
 }
+
+.bio-content h3 {
+    font-size: 64px;
+}
 .biography {
     flex: 1;
 }
 
-img {
-    max-width: 500px;
-    height: auto;
+#selfie {
+    width: 20rem;
+    border: groove 15px #fcaea4;
 }
 
 /*Projects*/
@@ -143,12 +148,13 @@ img {
     display: flex;
     gap: 1rem;
     margin-bottom: 0.5rem;
-    max-width: 80%;
+    max-width: 100%;
+    height: auto;
 }
 
 .project-row {
     display: flex;
-    gap: 1rem;
+    gap: 0.5rem;
     align-items: flex-start;
 }
 
