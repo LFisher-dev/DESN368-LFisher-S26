@@ -63,6 +63,11 @@ a project where we created a website for a product or subscription service while
 
 # Credits & Citations
 ### Assets
+- all fonts used throughout weeks 1-10: google fonts
+- Section decorations in week 6 field guide: Overwatch/Blizzard Entertainment
+- Navigation and Subscription plan icons in week 9 landing page: Noun Project
+- Hero section image in week 9 landing page: pngtree
+- gmail, linkedin, and indeed icons in week 10 portfolio: brandfetch
 
 ### Tutorials & Resources
 While I can't point to a specific tutorial that's helped me, the biggest resource I've used is w3schools, especially their "try it" feature as a way to both see the code and see how it operates on a website. One specific example is their [horizontal navigation](https://www.w3schools.com/css/css_navbar_horizontal.asp) in helping me figure out how to get the navigation to work horizontally.
