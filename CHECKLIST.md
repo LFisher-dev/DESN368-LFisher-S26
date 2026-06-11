@@ -60,9 +60,9 @@
 # Part 7: Submission
 - [X] Pushed all changes to GitHub
 - [X] GitHub Pages site is live and working
-- [] Submitted Canvas: Link to live portfolio
-- [] Submitted Canvas: Link to GitHub repository
-- [] Submitted Canvas: Link to Figma file
+- [X] Submitted Canvas: Link to live portfolio
+- [X] Submitted Canvas: Link to GitHub repository
+- [X] Submitted Canvas: Link to Figma file
 # Part 8: Presentation Prep
 - [X] I can explain my design choices (typography, color, vibe)
 - [X] I have one piece of code I'm proud of and can talk about
