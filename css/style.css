@@ -14,7 +14,7 @@ h1, h2, h3 {
 }
 
 h1 {
-    font-size: 72px;
+    font-size: 128px;
     align-content: center;
 }
 
@@ -98,18 +98,23 @@ main {
 #Welcome { 
     display: flex;
     align-items: center;
+    justify-content: center;
     gap: 1rem;
-    text-align: center;
 }
 
 #Welcome h1, h3 {
     margin: 0;
 }
 
+#Welcome h3 {
+    font-size: 44px;
+    line-height: 44px;
+}
+
 .subtitle {
     display: flex;
     flex-direction: column;
-    line-height: 100%;
+    line-height: normal;
 }
 
 /*Biography*/
