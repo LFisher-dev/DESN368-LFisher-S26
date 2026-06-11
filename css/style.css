@@ -246,7 +246,7 @@ form #submit:hover {
     }
 
     img {
-        max-width: 250px;
+        max-width: 300px;
     }
 
     #Welcome h1 {
@@ -336,9 +336,12 @@ form #submit:hover {
         float: none;
     }
 
-    .socials img {
-        gap: 1rem;
-        max-width: 80px;
+    .socials {
+        flex-direction: column;
+    }
+
+    .social img {
+        max-width: 30%;
     }
 }
 
