@@ -50,12 +50,12 @@
 - [X] Updated About section with my information
 - [X] Added live portfolio link
 - [X] Added learning log link
-- [] Filled in Design Direction (fonts, colors, vibe)
+- [X] Filled in Design Direction (fonts, colors, vibe)
 - [X] Listed all four featured projects with descriptions
 - [] Credited any assets I didn't create
 - [X] Cited tutorials or resources I used
 - [X] Disclosed AI assistance (or noted "none")
-- [] Added link to Figma file
+- [X] Added link to Figma file
 - [X] Deleted the "How to Use" comment block at top
 # Part 7: Submission
 - [X] Pushed all changes to GitHub
