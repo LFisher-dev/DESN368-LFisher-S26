@@ -9,32 +9,44 @@ This repository documents my journey through DESN368, aka Code + Design, where I
 For my portfolio, I wanted to pursue something that was both creative and inviting while also staying professional
 
 header Font: Lemonada Regular
----
+
+___
+
 Body Font: cabin regular
----
+
+___
+
 Primary color: #962D45
----
-Accent color: 
----
+
+___
+
+Accent color: #BEA9CA
+
+___
+
 Background: #FFFAFB
 
 [View Figma file here](figma.com/design/P38rbTuxRmbputwPIIfXKh/Portfolio-System_Lee-Fisher?m=dev)
 # Featured Projects
 ### The Recipe
 a project where we had to create a recipe page using CSS (in place of inline styling) for the first time
-[link]
+
+[link](https://lfisher-dev.github.io/DESN368-LFisher-S26/week-4/recipe-in-style/recipe-styled.html)
 
 ### Tribute Site
 a project where we had to create a website dedicated to a historical person of our choosing
-[link]
+
+[link](https://lfisher-dev.github.io/DESN368-LFisher-S26/Week-5/tribute-site.html)
 
 ### Field Guide
 a project where we created a field guide based on a game or system of our choosing while utilizing responsive design
-[link]
+
+[link](https://lfisher-dev.github.io/DESN368-LFisher-S26/Week-6/Field-Guide.html)
 
 ## Product Landing Page
 a project where we created a website for a product or subscription service while utilizing CSS animation and contact forms
-[link]
+
+[link](https://lfisher-dev.github.io/DESN368-LFisher-S26/Week-9/product-landing-page.html)
 
 # Technical Skills
 - semantic HTML 5
@@ -45,8 +57,9 @@ a project where we created a website for a product or subscription service while
 - Version control with Git & Github
 
 # Archive
-[course log]
-[exercises]
+[course log](https://lfisher-dev.github.io/DESN368-LFisher-S26/learning-log.html)
+
+[exercises](https://lfisher-dev.github.io/DESN368-LFisher-S26/learning-log.html)
 
 # Credits & Citations
 ### Assets
@@ -63,3 +76,5 @@ I do want to disclose that while I have used AI assistance for coding later proj
 
 # Reflection
 [Read full reflection on Portfolio Site]
+
+&copy; 2026 Lee Fisher. Built for DESN368 at Eastern Washington University
