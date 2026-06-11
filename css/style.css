@@ -27,6 +27,13 @@ img {
     height: auto;
 }
 
+#reflection h1 {
+    font-size: 85px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 /* header/navigation */
 #header ul {
     list-style: none;
