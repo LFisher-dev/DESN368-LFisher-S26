@@ -131,13 +131,20 @@ img {
 
 article {
     width: 80%;
-    align-self: center;
 }
 
-.thumbnail {
+article img {
+
+}
+#project:hover {
+    transform: translateY(-10px);
+    transition: all 0.5s ease;
+    box-shadow: -4px 4px rgba(164, 25, 66, 0.5);
+}
+
+#project {
     display: flex;
 }
-
 
 /*Links*/
 
@@ -203,6 +210,12 @@ form #submit:hover {
         flex-direction: column;
     }
     
+    .bio-content {
+        max-width: fit-content;
+        align-items: center;
+        flex-direction: column;
+    }
+
     #projects {
         margin: 0;
         margin-bottom: 15px;   
