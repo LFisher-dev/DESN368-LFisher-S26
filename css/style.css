@@ -105,8 +105,10 @@ main {
     margin: 0;
 }
 
-#Welcome h3 {
-    line-height: 98%;
+.subtitle {
+    display: flex;
+    flex-direction: column;
+    line-height: 100%;
 }
 
 /*Biography*/
@@ -122,28 +124,22 @@ main {
 }
 
 img {
-    width: 50%;
     max-width: 500px;
     height: auto;
 }
 
 /*Projects*/
 
-article {
-    width: 80%;
+.project {
+    display: flex;
+    gap: 50%;
+    max-width: 50%;
 }
 
-article img {
-
-}
-#project:hover {
+.project-example:hover {
     transform: translateY(-10px);
     transition: all 0.5s ease;
     box-shadow: -4px 4px rgba(164, 25, 66, 0.5);
-}
-
-#project {
-    display: flex;
 }
 
 /*Links*/
@@ -209,14 +205,24 @@ form #submit:hover {
     .container {
         flex-direction: column;
     }
-    
+
+    img {
+        max-width: 250px;
+    }
+
+    .subtitle {
+        flex-direction: row;
+        gap: 15px;
+    }
+
     .bio-content {
         max-width: fit-content;
         align-items: center;
         flex-direction: column;
     }
 
-    #projects {
+    .project {
+        flex-direction: column;
         margin: 0;
         margin-bottom: 15px;   
     }
