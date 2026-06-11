@@ -47,16 +47,16 @@
 - [X] The Process: Answered in 3-5 sentences minimum
 - [X] The Future: Answered in 3-5 sentences minimum
 # Part 6: README Documentation
-- [] Updated About section with my information
-- [] Added live portfolio link
-- [] Added learning log link
+- [X] Updated About section with my information
+- [X] Added live portfolio link
+- [X] Added learning log link
 - [] Filled in Design Direction (fonts, colors, vibe)
 - [] Listed all four featured projects with descriptions
 - [] Credited any assets I didn't create
 - [] Cited tutorials or resources I used
 - [] Disclosed AI assistance (or noted "none")
 - [] Added link to Figma file
-- [] Deleted the "How to Use" comment block at top
+- [X] Deleted the "How to Use" comment block at top
 # Part 7: Submission
 - [X] Pushed all changes to GitHub
 - [X] GitHub Pages site is live and working
@@ -66,4 +66,4 @@
 # Part 8: Presentation Prep
 - [X] I can explain my design choices (typography, color, vibe)
 - [X] I have one piece of code I'm proud of and can talk about
-- [] I can describe my "Threshold" moment
+- [X] I can describe my "Threshold" moment
