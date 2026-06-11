@@ -3,7 +3,7 @@ This repository documents my journey through DESN368, aka Code + Design, where I
 
 [portfolio](https://lfisher-dev.github.io/DESN368-LFisher-S26/index.html)
 
-[learning log] 
+[learning log](https://lfisher-dev.github.io/DESN368-LFisher-S26/learning-log.html) 
 
 # Design Direction
 
