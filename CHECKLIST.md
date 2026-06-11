@@ -3,7 +3,7 @@
 - [X] Created archive/ folder
 - [X] Moved old README to archive/course-log.md
 - [X] Created new index.html (portfolio home page)
-- [] Created new README.md using the template
+- [] Created new README.md using the template (half)
 - [X] Created css/ folder for portfolio styles
 - [X] Created images/ folder for portfolio images
 - [X] All week-XX folders are still in root (not moved)
@@ -23,7 +23,7 @@
 - [X] Project Card: Tribute Site (thumbnail + title + description + link)
 - [X] Project Card: Field Guide (thumbnail + title + description + link)
 - [X] Project Card: Product Landing Page (thumbnail + title + description + link)
-- [] External links (GitHub profile, LinkedIn, socials)
+- [X] External links (GitHub profile, LinkedIn, socials)
 - [X] Footer with copyright
 - [X] Footer with AI/Integrity statement (if applicable)
 - [X] Link to Learning Log somewhere in navigation or footer
@@ -32,7 +32,7 @@
 - [X] CSS Variables for colors
 - [X] CSS Variables for fonts
 - [X] Layout uses Flexbox and/or Grid
-- [] At least one @media query for responsive design
+- [X] At least one @media query for responsive design
 - [X] At least one CSS transition on interactive element (hover state, button, card)
 - [X] Link states styled (a:link, a:visited, a:hover, a:active)
 - [X] Custom favicon installed and visible in browser tab
@@ -58,12 +58,12 @@
 - [] Added link to Figma file
 - [] Deleted the "How to Use" comment block at top
 # Part 7: Submission
-- [] Pushed all changes to GitHub
-- [] GitHub Pages site is live and working
+- [X] Pushed all changes to GitHub
+- [X] GitHub Pages site is live and working
 - [] Submitted Canvas: Link to live portfolio
 - [] Submitted Canvas: Link to GitHub repository
 - [] Submitted Canvas: Link to Figma file
 # Part 8: Presentation Prep
-- [] I can explain my design choices (typography, color, vibe)
-- [] I have one piece of code I'm proud of and can talk about
+- [X] I can explain my design choices (typography, color, vibe)
+- [X] I have one piece of code I'm proud of and can talk about
 - [] I can describe my "Threshold" moment
