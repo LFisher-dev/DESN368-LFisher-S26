@@ -3,7 +3,7 @@ html {
 }
 
 body {
-    background-color: #fff5f8;
+    background-color: #FFFAFB;
     font-family: "cabin";
     color: #780a2b;
 }
@@ -44,20 +44,20 @@ img {
 
 #header li {
     float: left;
-    color: #fff5f8;
+    color: #FFFAFB;
 }
 
 #header a {
     display: block;
     text-align: justify;
     padding: 1rem;
-    color: #fff5f8;
+    color: #FFFAFB;
     text-decoration: none;
 }
 
 #header a:hover {
-    background-color: #fcaea4;
-    color: #a41942;
+    background-color: #BEA9CA;
+    color: #780a2b;
 }
 
 #name {
@@ -146,7 +146,7 @@ img {
 
 #selfie {
     width: 20rem;
-    border: groove 15px #fcaea4;
+    border: groove 15px #BEA9CA;
 }
 
 /*Projects*/
@@ -206,7 +206,7 @@ form input {
     margin-bottom: 10px;
     padding: 10px;
     border-radius: 5px;
-    border: 1px solid #fff5f8;
+    border: 1px solid #FFFAFB;
 }
 
 form textarea {
@@ -215,13 +215,13 @@ form textarea {
     margin-bottom: 10px;
     padding: 10px;
     border-radius: 5px;
-    border: 1px solid #fff5f8;
+    border: 1px solid #FFFAFB;
     font-family: "cabin";
 }
 
 form #submit {
     background-color: rgb(164, 25, 66);
-    color: #fff5f8;
+    color: #FFFAFB;
     border: none;
     padding: 5px 20px;
     border-radius: 5px;
@@ -229,7 +229,7 @@ form #submit {
 }
 
 form #submit:hover {
-    background-color: #fff5f8;
+    background-color: #FFFAFB;
     color: #a41942;
     box-shadow: -4px 4px rgba(164, 25, 66, 0.5);
 }
@@ -317,7 +317,7 @@ form #submit:hover {
         top: 10px;
         right: 20px;
         font-size: 24px;
-        color: #fff5f8;
+        color: #FFFAFB;
         cursor: pointer;
     }
 
@@ -356,13 +356,13 @@ form #submit:hover {
 
 footer {
     background-color: #a41942;
-    color: #fff5f8;
+    color: #FFFAFB;
     text-align: center;
     padding: 0.5rem;
 }
 
  footer a {
-        color: #fff5f8;
+        color: #FFFAFB;
         text-decoration: underline;
     }
 
@@ -387,5 +387,5 @@ footer {
 780a2b = text
 a41942 = secondary
 f07269 = error 
-fcaea4 = accent color
-fff5f8 = background */
+BEA9CA = accent color
+FFFAFB = background */
