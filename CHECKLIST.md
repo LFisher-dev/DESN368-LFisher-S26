@@ -41,11 +41,11 @@
 - [X] Tested on mobile (or narrow browser window)
 # Part 5: Reflection
 - [X] Created reflection page (linked from portfolio)
-- [] The Threshold: Answered in 3-5 sentences minimum
-- [] The Pit: Answered in 3-5 sentences minimum
-- [] The Pivot: Answered in 3-5 sentences minimum
-- [] The Process: Answered in 3-5 sentences minimum
-- [] The Future: Answered in 3-5 sentences minimum
+- [X] The Threshold: Answered in 3-5 sentences minimum
+- [X] The Pit: Answered in 3-5 sentences minimum
+- [X] The Pivot: Answered in 3-5 sentences minimum
+- [X] The Process: Answered in 3-5 sentences minimum
+- [X] The Future: Answered in 3-5 sentences minimum
 # Part 6: README Documentation
 - [] Updated About section with my information
 - [] Added live portfolio link
