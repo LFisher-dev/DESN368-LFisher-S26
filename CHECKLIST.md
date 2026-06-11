@@ -3,7 +3,7 @@
 - [X] Created archive/ folder
 - [X] Moved old README to archive/course-log.md
 - [X] Created new index.html (portfolio home page)
-- [] Created new README.md using the template (half)
+- [X] Created new README.md using the template (half)
 - [X] Created css/ folder for portfolio styles
 - [X] Created images/ folder for portfolio images
 - [X] All week-XX folders are still in root (not moved)
