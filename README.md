@@ -75,6 +75,6 @@ I do want to disclose that while I have used AI assistance for coding later proj
 - Copilot Ask to help with debugging CSS in week 10
 
 # Reflection
-[Read full reflection on Portfolio Site]
+[Read full reflection on Portfolio Site](https://lfisher-dev.github.io/DESN368-LFisher-S26/reflection.html)
 
 &copy; 2026 Lee Fisher. Built for DESN368 at Eastern Washington University
