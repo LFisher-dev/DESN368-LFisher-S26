@@ -6,7 +6,19 @@ This repository documents my journey through DESN368, aka Code + Design, where I
 [learning log](https://lfisher-dev.github.io/DESN368-LFisher-S26/learning-log.html) 
 
 # Design Direction
+For my portfolio, I wanted to pursue something that was both creative and inviting while also staying professional
 
+header Font: Lemonada Regular
+---
+Body Font: cabin regular
+---
+Primary color: #962D45
+---
+Accent color: 
+---
+Background: #FFFAFB
+
+[View Figma file here](figma.com/design/P38rbTuxRmbputwPIIfXKh/Portfolio-System_Lee-Fisher?m=dev)
 # Featured Projects
 ### The Recipe
 a project where we had to create a recipe page using CSS (in place of inline styling) for the first time
