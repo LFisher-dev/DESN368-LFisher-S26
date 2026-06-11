@@ -52,7 +52,7 @@
 - [X] Added learning log link
 - [X] Filled in Design Direction (fonts, colors, vibe)
 - [X] Listed all four featured projects with descriptions
-- [] Credited any assets I didn't create
+- [X] Credited any assets I didn't create
 - [X] Cited tutorials or resources I used
 - [X] Disclosed AI assistance (or noted "none")
 - [X] Added link to Figma file
