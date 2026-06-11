@@ -99,6 +99,7 @@ main {
     display: flex;
     align-items: center;
     gap: 1rem;
+    text-align: center;
 }
 
 #Welcome h1, h3 {
