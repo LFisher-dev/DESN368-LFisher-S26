@@ -40,7 +40,7 @@
 - [X] Site is live on GitHub Pages
 - [X] Tested on mobile (or narrow browser window)
 # Part 5: Reflection
-- [] Created reflection page (linked from portfolio)
+- [X] Created reflection page (linked from portfolio)
 - [] The Threshold: Answered in 3-5 sentences minimum
 - [] The Pit: Answered in 3-5 sentences minimum
 - [] The Pivot: Answered in 3-5 sentences minimum
