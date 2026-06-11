@@ -141,8 +141,20 @@ img {
 
 .project {
     display: flex;
-    gap: 50%;
-    max-width: 50%;
+    gap: 1rem;
+    margin-bottom: 0.5rem;
+    max-width: 80%;
+}
+
+.project-row {
+    display: flex;
+    gap: 1rem;
+    align-items: flex-start;
+}
+
+.project-row p {
+    flex: 1;
+    margin: 0;
 }
 
 .project-example:hover {
@@ -245,7 +257,10 @@ form #submit:hover {
         margin: 0;
         margin-bottom: 15px;   
     }
-
+    
+    .project-row {
+        flex-direction: column;
+    }
     .name-row {
         flex-direction: column;
         width: 100%;
