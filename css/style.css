@@ -171,6 +171,18 @@ img {
 
 /*Links*/
 
+.socials {
+    display: flex;
+    flex-direction: row;
+    gap: 10rem;
+    align-items: center;
+    justify-content: center;
+}
+
+.socials img {
+    max-width: 200px;
+}
+
 /*contact page*/
 form {
     display: flex;
@@ -324,6 +336,10 @@ form #submit:hover {
         float: none;
     }
 
+    .socials img {
+        gap: 1rem;
+        max-width: 80px;
+    }
 }
 
 /*Footer*/
